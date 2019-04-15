@@ -1,0 +1,105 @@
+F:\KPI\7 semestr\NCH\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+F:\KPI\7 semestr\NCH\lb1\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+F:\KPI\7 semestr\NCH\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+F:\KPI\7 semestr\NCH\lb1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+F:\KPI\7 semestr\NCH\lb1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+F:\KPI\7 semestr\NCH\lb1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+F:\KPI\7 semestr\NCH\lb1\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+F:\KPI\7 semestr\NCH\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+F:\KPI\7 semestr\NCH\lb1\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+F:\KPI\7 semestr\NCH\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+F:\KPI\7 semestr\NCH\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+F:\KPI\7 semestr\NCH\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+F:\KPI\7 semestr\NCH\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+F:\KPI\7 semestr\NCH\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+F:\KPI\7 semestr\NCH\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+E:\универ\7 семестр\аушева глеб\lb1\lb1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+E:\универ\7 семестр\аушева глеб\lb1\lb1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+E:\универ\7 семестр\аушева глеб\lb1\lb1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+E:\универ\7 семестр\аушева глеб\lb1\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+E:\универ\7 семестр\аушева глеб\lb1\lb1\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+E:\универ\7 семестр\аушева глеб\lb1\lb1\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+E:\универ\7 семестр\аушева глеб\lb1\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+E:\универ\7 семестр\аушева глеб\lb1\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+E:\универ\7 семестр\аушева глеб\lb1\lb1\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+E:\универ\7 семестр\аушева глеб\lb1\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+E:\универ\7 семестр\аушева глеб\lb1\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+E:\универ\7 семестр\аушева глеб\lb1\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+E:\универ\7 семестр\аушева глеб\lb1\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+E:\универ\7 семестр\аушева глеб\lb1\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+E:\универ\7 семестр\аушева глеб\lb1\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+E:\универ\7 семестр\аушева глеб\laba 0\lb1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+E:\универ\7 семестр\аушева глеб\laba 0\lb1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+E:\универ\7 семестр\аушева глеб\laba 0\lb1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+E:\универ\7 семестр\аушева глеб\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+E:\универ\7 семестр\аушева глеб\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+E:\универ\7 семестр\аушева глеб\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+E:\универ\7 семестр\аушева глеб\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+E:\универ\7 семестр\аушева глеб\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+E:\универ\7 семестр\аушева глеб\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+E:\универ\7 семестр\аушева глеб\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+E:\универ\7 семестр\аушева глеб\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+E:\универ\7 семестр\аушева глеб\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+E:\универ\7 семестр\аушева глеб\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+E:\универ\7 семестр\аушева глеб\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+E:\универ\7 семестр\аушева глеб\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+E:\универ\7 семестр\аушева\laba 0\lb1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+E:\универ\7 семестр\аушева\laba 0\lb1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+E:\универ\7 семестр\аушева\laba 0\lb1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+E:\универ\7 семестр\аушева\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+E:\универ\7 семестр\аушева\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+E:\универ\7 семестр\аушева\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+E:\универ\7 семестр\аушева\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+E:\универ\7 семестр\аушева\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+E:\универ\7 семестр\аушева\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+E:\универ\7 семестр\аушева\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+E:\универ\7 семестр\аушева\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+E:\универ\7 семестр\аушева\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+E:\универ\7 семестр\аушева\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+E:\универ\7 семестр\аушева\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+E:\универ\7 семестр\аушева\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+G:\аушева\laba 0\lb1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+G:\аушева\laba 0\lb1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+G:\аушева\laba 0\lb1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+G:\аушева\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+G:\аушева\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+G:\аушева\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+G:\аушева\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+G:\аушева\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+G:\аушева\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+G:\аушева\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+G:\аушева\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+G:\аушева\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+G:\аушева\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+G:\аушева\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+G:\аушева\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+E:\4 курс\аушева\laba 0\lb1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+E:\4 курс\аушева\laba 0\lb1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+E:\4 курс\аушева\laba 0\lb1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+E:\4 курс\аушева\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+E:\4 курс\аушева\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+E:\4 курс\аушева\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+E:\4 курс\аушева\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+E:\4 курс\аушева\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+E:\4 курс\аушева\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+E:\4 курс\аушева\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+E:\4 курс\аушева\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+E:\4 курс\аушева\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+E:\4 курс\аушева\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+E:\4 курс\аушева\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+E:\4 курс\аушева\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+E:\4 курс\Graphics\laba 0\lb1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+E:\4 курс\Graphics\laba 0\lb1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+E:\4 курс\Graphics\laba 0\lb1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+E:\4 курс\Graphics\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+E:\4 курс\Graphics\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+E:\4 курс\Graphics\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+E:\4 курс\Graphics\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+E:\4 курс\Graphics\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+E:\4 курс\Graphics\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+E:\4 курс\Graphics\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+E:\4 курс\Graphics\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+E:\4 курс\Graphics\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+E:\4 курс\Graphics\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+E:\4 курс\Graphics\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+E:\4 курс\Graphics\laba 0\lb1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
